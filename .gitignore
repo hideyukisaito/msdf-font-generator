@@ -1,0 +1,5 @@
+_temp
+node_modules
+export
+fonts/*.ttf
+fonts/*.otf
